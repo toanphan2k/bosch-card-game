@@ -116,4 +116,4 @@ successfully- Every 2 turns, the player successfullyreceives a random card from 
 To build product, follow these command lines below
 
 # Todo 
-[] Finish this shit
+- [ ] Finish this shit
